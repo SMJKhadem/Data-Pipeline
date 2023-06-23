@@ -1,0 +1,5 @@
+requests
+SQLAlchemy
+pyjokes
+pymongo
+psycopg2
